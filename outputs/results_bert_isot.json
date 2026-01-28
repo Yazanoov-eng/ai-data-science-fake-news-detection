@@ -1,0 +1,14 @@
+{
+  "model": "Fine-tuned BERT classifier",
+  "dataset": "isot",
+  "test": {
+    "loss": 0.004453267902135849,
+    "accuracy": 0.9992576095025983,
+    "precision": 0.9988652482269503,
+    "recall": 0.9997160704145373,
+    "f1": 0.9992904782176812,
+    "runtime": 146.9518,
+    "samples_per_second": 45.831,
+    "steps_per_second": 5.73
+  }
+}

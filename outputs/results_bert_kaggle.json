@@ -1,0 +1,14 @@
+{
+  "model": "Fine-tuned BERT classifier",
+  "dataset": "kaggle",
+  "test": {
+    "loss": 0.03356582671403885,
+    "accuracy": 0.9939931614453378,
+    "precision": 0.9930094999103782,
+    "recall": 0.9953287818900467,
+    "f1": 0.9941677882458502,
+    "runtime": 151.8335,
+    "samples_per_second": 71.269,
+    "steps_per_second": 8.911
+  }
+}

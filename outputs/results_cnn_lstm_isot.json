@@ -1,0 +1,22 @@
+{
+  "model": "CNN+LSTM on frozen BERT embeddings",
+  "dataset": "isot",
+  "best_val_f1": 0.9998580553584102,
+  "test": {
+    "accuracy": 0.9994060876020787,
+    "precision": 0.9988655700510494,
+    "recall": 1.0,
+    "f1": 0.9994324631101021,
+    "confusion_matrix": [
+      [
+        3209,
+        4
+      ],
+      [
+        0,
+        3522
+      ]
+    ],
+    "loss": 0.004482947041716326
+  }
+}

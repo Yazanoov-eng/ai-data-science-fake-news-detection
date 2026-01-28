@@ -1,0 +1,22 @@
+{
+  "model": "CNN+LSTM on frozen BERT embeddings",
+  "dataset": "kaggle",
+  "best_val_f1": 0.9912510147019031,
+  "test": {
+    "accuracy": 0.9901118196100176,
+    "precision": 0.9945642326508426,
+    "recall": 0.9861660079051383,
+    "f1": 0.9903473161930537,
+    "confusion_matrix": [
+      [
+        5225,
+        30
+      ],
+      [
+        77,
+        5489
+      ]
+    ],
+    "loss": 0.03045414298174415
+  }
+}
